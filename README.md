@@ -1,2 +1,2 @@
 # oop-game
- A word guessing game using OOP
+ A phrase guessing game using OOP
